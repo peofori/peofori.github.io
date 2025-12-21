@@ -12,9 +12,9 @@ permalink: /talk/
 
 # CONFERENCES AND WORKSHOPS 
 - - -
-**Upcoming [20th BiGSEM Workshop Economics, Finance, and Management](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/einrichtungen/bigsem/bigsem-doctoral-workshop/bigsem-doctoral-workshop/)**, December 15-16, 2025, Bielefeld Graduate School of Economics and Management, Germany  <br/>
+**[20th BiGSEM Workshop Economics, Finance, and Management](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/einrichtungen/bigsem/bigsem-doctoral-workshop/bigsem-doctoral-workshop/)**, December 15-16, 2025, Bielefeld Graduate School of Economics and Management, Germany  <br/>
 
-**Upcoming [Leibniz Environment and Development Symposium LEADS 2025](https://www.leibniz-zmt.de/en/news-at-zmt/news/news-archive/call-for-papers-leads-2025.html)**,  December 10-11, 2025, Bremen, Germany.<br/>
+**[Leibniz Environment and Development Symposium LEADS 2025](https://www.leibniz-zmt.de/en/news-at-zmt/news/news-archive/call-for-papers-leads-2025.html)**,  December 10-11, 2025, Bremen, Germany.<br/>
 
 **[6th INFER ERMEES - European Macroeconomics Workshop 2025](https://infer-research.eu/events/6th-infer-ermees-european-macroeconomics-workshop-2025/)**, December 5, 2025, Strasbourg, France. <br/>
 
