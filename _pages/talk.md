@@ -46,7 +46,7 @@ permalink: /talk/
 
 ** Granada Research Seminar at the Department of Economic Theory and History**, October 8, 2025, University of Granada, Spain  <br/>
 
-**Jena Economics Research Seminar Series (Winter Semester)**, Presenter and Discussant, University of Jena, Germany.  <br/>
+** Jena Economics Research Seminar Series (Winter Semester)**, Presenter and Discussant, University of Jena, Germany.  <br/>
 
 
 
