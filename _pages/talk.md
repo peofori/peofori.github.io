@@ -18,7 +18,7 @@ permalink: /talk/
 
 **[6th INFER ERMEES - European Macroeconomics Workshop 2025](https://infer-research.eu/events/6th-infer-ermees-european-macroeconomics-workshop-2025/)**, December 5, 2025, Strasbourg, France. <br/>
 
-**[Insubria 3rd year PhD Workshop 2025](https://dieco.uninsubria.it/it/eventi/3d-year-phd-workshop)**, March 6-9, 2025, Boston, MA, USA. <br/>
+**[Insubria 3rd year PhD Workshop 2025](https://dieco.uninsubria.it/it/eventi/3d-year-phd-workshop)**, October 27, 2025, Varese, Italy. <br/>
 
 **[Eastern Sociological Society Annual Meeting](https://www.essnet.org/annual-conference)**, March 6-9, 2025, Boston, MA, USA. <br/>
 
