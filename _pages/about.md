@@ -12,7 +12,7 @@ redirect_from:
 
 **Hi, welcome to my webpage!**
 
-I am a **[PhD Candidate](https://www.phd.eco.uninsubria.it/methods-and-models-for-economic-decisions/phd-students/)** in Economics at the [University of Insubria](https://www.uninsubria.eu/) and currently serve as an African Fellow (Consultant) at the [World Bank Group](https://www.worldbank.org/en/who-we-are/ibrd). During the 2024–2025 academic year, I was a visiting researcher at the [University of Granada](https://www.ugr.es/en) and the [Schumpeter Center for Research on Socio-Economic Change](https://www.jsec.uni-jena.de/en) at the University of Jena, respectively.
+I am a **[PhD Candidate](https://www.phd.eco.uninsubria.it/methods-and-models-for-economic-decisions/phd-students/)** in Economics at the [University of Insubria](https://www.uninsubria.eu/) and currently serve as an [African Fellow](https://www.worldbank.org/en/region/afr/brief/world-bank-group-africa-fellowship-program) (Consultant) at the [World Bank Group](https://www.worldbank.org/en/who-we-are/ibrd). During the 2024–2025 academic year, I was a visiting researcher at the [University of Granada](https://www.ugr.es/en) and the [Schumpeter Center for Research on Socio-Economic Change](https://www.jsec.uni-jena.de/en) at the University of Jena, respectively.
 
 My research interests lie at the intersection of innovation, environmental and development economics with a secondary interest in Gender Studies. I study how technological innovation, green growth, and green finance affect environmental sustainability. I combine causal inference, machine learning, instrumental variable models to study the determinants of environmental sustainability.
 
