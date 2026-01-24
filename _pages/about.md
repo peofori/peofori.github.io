@@ -24,8 +24,8 @@ Pamela’s research interests lie at the intersection of Data Science, Economics
 Innovation, Environmental Economics, and Development Economics, with a sec-
 ondary focus on gender studies. Prior to her doctoral studies, she served as a Research
 Assistant at the School of Economics, University of Cape Coast, and completed a Project
-Internship in Li`ege, Belgium, with the Association for Promoting Women in Research and
-Development in Africa.
+Internship in Yaounde, Cameroon, with the Association for Promoting Women in Research and
+Development in Africa (ASPROWORDA).
 
 Pamela currently works with the World Bank Group’s Country Office in Equatorial
 Guinea as a WBG Africa Fellow, where she supports the preparation of the World Bank
