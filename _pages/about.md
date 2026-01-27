@@ -11,21 +11,11 @@ redirect_from:
 
 
 **Hi, welcome to my webpage!**
+
+
 Pamela E. Ofori is a **[PhD Candidate](https://www.phd.eco.uninsubria.it/methods-and-models-for-economic-decisions/phd-students/)** in Economics at the [University of Insubria](https://www.uninsubria.eu/) in Varese,
-Italy. During the 2024–2025 academic year, I was a visiting researcher at the [University of Granada](https://www.ugr.es/en) and the [Schumpeter Center for Research on Socio-Economic Change](https://www.jsec.uni-jena.de/en) at the University of Jena, respectively.
-
-She holds a Bachelor of Science degree in Mathematics with Economics
-from the University of Cape Coast (Ghana); a Master of Science in Economics from
-the University of Granada (Spain); and a Dual Master of Science degree in Global
-Entrepreneurship, Economics, and Management from the University of Insubria
-(Italy) and Friedrich Schiller University Jena (Germany).
-
-Pamela’s research interests lie at the intersection of Data Science, Economics of
-Innovation, Environmental Economics, and Development Economics, with a sec-
-ondary focus on gender studies. Prior to her doctoral studies, she served as a Research
-Assistant at the School of Economics, University of Cape Coast, and completed a Project
-Internship in Yaounde, Cameroon, with the Association for Promoting Women in Research and
-Development in Africa (ASPROWORDA).
+Italy. During the 2024–2025 academic year, she was a visiting researcher at the [University of Granada](https://www.ugr.es/en) and the [Schumpeter Center for Research on Socio-Economic Change](https://www.jsec.uni-jena.de/en) at the University of Jena, respectively. Pamela’s research interests lie at the intersection of Data Science, Economics of
+Innovation, Environmental Economics, and Development Economics, with a secondary focus on gender studies.
 
 Pamela currently works with the World Bank Group’s Country Office in Equatorial
 Guinea as a WBG Africa Fellow, where she supports the preparation of the World Bank
