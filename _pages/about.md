@@ -24,4 +24,4 @@ the establishment of the Business Environment Monitoring Council for Equatorial 
 and provides in-country analytical and operational support to the team preparing the Public
 Finance Review.
 
-**I am currently on the 2026–2027 Economics Job Market.** Please, find my Job Market Paper [here](https://drive.google.com/drive/u/0/folders/1_wcWPZgnByfm0aRZM79K3OzC9ETUPyuc).
+**I am currently on the 2026–2027 Economics Job Market.** Please, find my Job Market Paper [here](https://drive.google.com/file/d/10JOT3ET3gQ9f8pwV886ZTCtqAyxZhI7K/view?usp=sharing).
