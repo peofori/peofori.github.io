@@ -13,7 +13,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 #  PUBLICATIONS 
 - - -
-- Eco-innovation and green growth: The income inequality trap, Journal of Environmental Management, 2026 [pdf](https://doi.org/10.1016/j.jenvman.2026.129944). <br/>
+- Eco-innovation and green growth: The income inequality trap, Journal of Environmental Management, 2026; [pdf](https://doi.org/10.1016/j.jenvman.2026.129944). <br/>
 
 - Robust Determinants of Green Finance, Energy Economics, 2025 (joint with Daryna Grechyna); [pdf](https://doi.org/10.1016/j.eneco.2025.109003). <br/>
  
