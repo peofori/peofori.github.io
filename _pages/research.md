@@ -13,6 +13,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 #  PUBLICATIONS 
 - - -
+- Eco-innovation and green growth: The income inequality trap, Journal of Environmental Management, 2026 [pdf](https://doi.org/10.1016/j.jenvman.2026.129944). <br/>
+
 - Robust Determinants of Green Finance, Energy Economics, 2025 (joint with Daryna Grechyna); [pdf](https://doi.org/10.1016/j.eneco.2025.109003). <br/>
  
 - The role of energy equity and income inequality in environmental sustainability, Journal of Cleaner Production, 2025 (joint with Isaac K. Ofori and Kenneth Annan); [pdf](https://www.sciencedirect.com/science/article/pii/S0959652624026325). <br/>
@@ -37,9 +39,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - Impact of Carbon Tax on Ecological Footprint(joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). <br/> *Submitted* <br/>
 
 - Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa (joint with Isaac K. Ofori and Nathaniel Ojong). <br/> *Under Review* <br/>
-
-- Eco-Innovation and Green Growth: The Moderating Role of Income Inequality; [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5457114) <br/>
-*Revise and Resubmit*. <br/>
 
 - Environmental Summits and Innovation (joint with Daryna Grechyna); [pdf](https://www.ifo.de/DocDL/cesifo1_wp12120.pdf) <br/> *Under Review* <br/>
 
