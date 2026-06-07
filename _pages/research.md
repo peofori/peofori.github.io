@@ -38,7 +38,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 - Impact of Carbon Tax on Ecological Footprint(joint with Andrea Vezzulli, Paolo Castelnovo, Isaac K. Ofori). <br/> *Submitted* <br/>
 
-- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa (joint with Isaac K. Ofori and Nathaniel Ojong). <br/> *Under Review* <br/>
+- Frontier Technology Adoption, Energy Equity and Environmental Quality of Life in Sub-Saharan Africa (joint with Isaac K. Ofori and Nathaniel Ojong). <br/> *Revise and Resubmit* <br/>
 
 - Environmental Summits and Innovation (joint with Daryna Grechyna); [pdf](https://www.ifo.de/DocDL/cesifo1_wp12120.pdf) <br/> *Under Review* <br/>
 
