@@ -23,7 +23,7 @@ repository               : "peofori/peofori.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "passport_picture.jpeg"
+  avatar           : "passport_photo.jpeg"
   name             : "Pamela Efua Ofori"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
